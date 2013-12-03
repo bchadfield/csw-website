@@ -4,7 +4,7 @@ title:  "Introducing CS Workflow"
 date:   2013-07-06 09:00:00
 author: "Vicky Claringbull"
 author_url: https://twitter.com/vclaringbull
-description: "CAt CS Workflow we’re focused on fixing one of the main headaches of content production: content review and approval."
+description: "At CS Workflow we’re focused on fixing one of the main headaches of content production: content review and approval."
 ---
 
 Sick of having to chase, follow up and undo other people’s changes to your copy? Do you need a way to track a document’s versions and changes as it progresses towards final approval? Are you constantly wishing for a way to make content review more transparent?

@@ -1,5 +1,5 @@
 name: CS Workflow Blog
 markdown: redcarpet
 pygments: true
-exclude: ['csw-blog.sublime-project','csw-blog.sublime-workspace']
+exclude: ['csw-blog.sublime-project','csw-blog.sublime-workspace','README.md']
 permalink: none

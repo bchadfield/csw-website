@@ -14,6 +14,7 @@ img.csw-logo { width: 192px; padding: 15px 0; }
 .sub-nav dd.active { border-bottom: 5px solid #c3e6e2; line-height: 1.8em; }
 p.lead { font-size: 1.1rem !important; line-height: 1.5rem; }
 h1.posts-intro { height: 0 !important; text-indent: -1000rem; }
+.content { padding-top: 30px; }
 .post-meta { color: #777; font-weight: 300; }
 .post-content { margin: 30px 0; padding-bottom: 20px; }
 .posts .post-content { border-bottom: 1px solid #f3f3f4; }
