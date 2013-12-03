@@ -6,12 +6,12 @@ ul { list-style: circle; }
 footer h3,
 footer .contact-details { background-color: rgb(70, 70, 70); background-color: rgba(70, 70, 70, 0.7); }
 img.bordered { background-color: #fff; border: 3px solid #fff; }
-img.csw-logo { width: 192px; padding: 10px 0; }
+img.csw-logo { width: 192px; padding: 15px 0; }
 .sub-nav { margin-bottom: 0 }
 .sub-nav dd { display: inline-block; padding: 17px 10px 13px 10px; margin-bottom: 0; }
 .sub-nav dd a { color: #fff; }
 .sub-nav dd a:hover { color: #c3e6e2; }
-.sub-nav dd.active { border-bottom: 5px solid #c3e6e2; }
+.sub-nav dd.active { border-bottom: 5px solid #c3e6e2; line-height: 1.8em; }
 p.lead { font-size: 1.1rem !important; line-height: 1.5rem; }
 h1.posts-intro { height: 0 !important; text-indent: -1000rem; }
 .post-meta { color: #777; font-weight: 300; }
