@@ -4,7 +4,7 @@ title:  "New workflow update"
 date:   2014-01-07 11:00:00
 author: "Vicky Claringbull"
 author_url: https://twitter.com/vclaringbull
-description: "However, don't forget to invest a lot of time into the alignment portion of things. Regardless of project size, you'll want to be sure to cover all of your stakeholder and user requirements."
+description: "The new workflow have been changed to better represent their actions. The stages are now: Parked, Draft, Review, Edit, Approval, Ready and Live."
 ---
 
 Happy new year! To celebrate the start of what is surely to be a fantastic year, we’re releasing our new workflow into the beta. To explain these changes we’ve created a video that takes you through how the new workflow works.
