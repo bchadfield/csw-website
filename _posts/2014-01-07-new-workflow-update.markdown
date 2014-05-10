@@ -21,5 +21,3 @@ Admin and Editors now have more powers to move content through the workflow. At 
 
 ### New workflow stage dropdown
 A new dropdown button has been added to content pages. Users can access the dropdown to find out what stage content is in. The dropdown will also indicate to editors and admin what stages the content can to moved to. For example, content that is in the draft stage can to moved to Edit, Review or Approval via the dropdown.
-
-<img src="https://s3-us-west-1.amazonaws.com/csworkflow-marketing/new-workflow-button.png" style="height: 250px;" alt="New workflow button" title="New workflow button" />
