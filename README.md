@@ -1,1 +1,1 @@
-Jekyll config and template for the CS Workflow blog.
+CS Workflow website, blog and help.

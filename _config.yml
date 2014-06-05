@@ -1,5 +1,6 @@
-name: CS Workflow Blog
-markdown: redcarpet
+name: CS Workflow
+markdown: kramdown
 pygments: true
-exclude: ['csw-blog.sublime-project','csw-blog.sublime-workspace','README.md']
-permalink: none
+permalink: /blog/:categories/:title.html
+destination: /Users/Ben/Documents/Code/csw-website/
+exclude: [rakefile.rb]

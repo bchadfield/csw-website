@@ -1,0 +1,17 @@
+---
+layout: default
+title: CS Workflow Blog
+---
+
+<div id="home" class="content row">
+	<div class="small-12 large-9 medium-centered columns">
+	  <h1 class="posts-intro">Welcome to the CS Workflow blog</h1>
+	  <div class="posts">
+	    {% for post in site.posts %}
+	    	<h2><a href="{{ post.url | remove_first:'/blog/' }}">{{ post.title }}</a></h2>
+	      <div class="post-meta">By <a href="{{ post.author_url }}" target="_blank">{{ post.author }}</a> - {{ post.date | date_to_long_string }}</div>
+	      <div class="post-content">{{ post.content }}</div>
+	    {% endfor %}
+	  </div>
+	 </div>
+</div>
