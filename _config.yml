@@ -3,4 +3,11 @@ markdown: kramdown
 pygments: true
 permalink: /blog/:categories/:title.html
 destination: /Users/Ben/Documents/Code/csw-website/
-exclude: [rakefile.rb]
+exclude: [rakefile.rb, Gemfile, Gemfile.lock]
+include: [.htaccess]
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      author: "CS Workflow"

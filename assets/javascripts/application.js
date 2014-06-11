@@ -1,6 +1,6 @@
 $(document).ready(function(){
-  if($('body.home').length > 0) { 
-    $('body.home').scrollspy(); 
+  if($('body.home').length > 0) {
+    $('body.home').scrollspy();
     $(window).scroll(function(){
       var st = $(this).scrollTop();
       var opacity = 0.4 + (st/1000);
