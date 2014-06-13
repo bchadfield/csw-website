@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="content row">
-  <div class="small-12 large-9 medium-centered columns">
+  <div class="small-12 large-9 medium-8 columns">
     <h1>{{ page.help_category }}</h1>
     <div class="help">
       {% for help_category in site.help_categories %}
@@ -12,7 +12,7 @@ layout: default
             {% for page in pages %}
               {% if page.url %}
                 <div class="help-section">
-                  <h3><a href="{{ page.url | split:'/' | last }}">{{ page.question }}?</a></h3>
+                  <h3><a href="{{ page.url }}">{{ page.question }}?</a></h3>
                   <p>{{ page.content | strip_html | truncatewords: 30 }}</p>
                 </div>
               {% endif %}
@@ -21,5 +21,9 @@ layout: default
         {% endif %}
       {% endfor %}
     </div>
-   </div>
+  </div>
+  <div class="small-12 large-3 medium-4 columns sidebar">
+    {% include help_sidebar_topics.html %}
+    {% include help_sidebar_contact.html %}
+  </div>
 </div>

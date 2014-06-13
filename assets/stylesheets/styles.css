@@ -151,6 +151,8 @@ input[type=text].error + i, input[type=email].error + i { color: #c64548; opacit
 }
 .input-with-icon.columns i { left: 1em; }
 .input-with-icon input:focus + i { opacity: 1; color: #57ad57; }
+.sidebar > section { background-color: #f3f3f4; padding: 10px 20px; margin-bottom: 2px; }
+.side-nav { list-style: none; margin-left: 0; font-size: 0.9rem; }
 footer h3, footer .contact-details { color: #fff; display: inline-block; text-align: center; }
 footer .contact { padding: 3px; }
 footer .contact a { color: #fff; }
@@ -176,7 +178,7 @@ body.home .copyright { color: #f3f3f4; }
 	.hero {
 		margin-top: -140px;
 		padding-top: 280px;
-		background: url('/assets/images/japan.jpg') no-repeat 0 0; 
+		background: url('/assets/images/japan.jpg') no-repeat 0 0;
 		background-size: cover;
 	}
 	body.home footer { background: url('/assets/images/japan.jpg') no-repeat 100% 100% fixed; background-size: contain; }
