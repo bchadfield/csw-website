@@ -1,5 +1,9 @@
 ---
-help_category: "Workspaces"
+layout: help
+help_category: "Workflow"
+title: "Live content"
+question: "What does it mean when content is live"
+permalink: "workflow/live-content.html"
 ---
 
 The Live stage is the final stage of the workflow and indicates that the
@@ -20,4 +24,3 @@ stage:
 Content that has gone live can also be moved back to the Draft stage if
 updates or changes are required. Putting live content into Draft moves
 it back to the start of the workflow and saves it as a new version.
-

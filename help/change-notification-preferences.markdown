@@ -1,5 +1,9 @@
 ---
-help_category: "Team member"
+layout: help
+help_category: "Team members"
+title: "Change notification preferences"
+question: "How do I change how often I get notification emails"
+permalink: "team-members/change-notification-preferences.html"
 ---
 
 CS Workflow uses email

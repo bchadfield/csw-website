@@ -1,9 +1,9 @@
 ---
 layout: help
-help_category: "Team member"
+help_category: "Team members"
 title: "Change email address or name"
 question: "How do I my email address or name"
-permalink: "content/change-email-address-or-name.html"
+permalink: "team-members/change-email-address-or-name.html"
 ---
 
 Team members can only change their own name or email.

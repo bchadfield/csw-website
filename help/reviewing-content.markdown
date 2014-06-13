@@ -1,5 +1,9 @@
 ---
-help_category: "Workspaces"
+layout: help
+help_category: "Workflow"
+title: "Reviewing content"
+question: "How does content get reviewed"
+permalink: "workflow/reviewing-content.html"
 ---
 
 Content can be reviewed in CS Workflow when there is a user assigned to
@@ -25,4 +29,3 @@ only move to the Edit stage when all reviews have been completed.
 
 An admin or editor can manually move the content back to the edit stage,
 if required.
-

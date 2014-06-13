@@ -1,5 +1,9 @@
 ---
+layout: help
 help_category: "Workflow"
+title: "Ready content"
+question: "How does content get ready for publishing"
+permalink: "workflow/ready-content.html"
 ---
 
 Content in the Ready stage has been approved and is ready to go live. No
@@ -21,15 +25,8 @@ content in the Ready stage:
   section\]
 * Publish to an integrated platform \[link to Integrations section\]
 
- Click the \'Show HTML\' button to switch between the formatted content and HTML source. <div>
+Click the \'Show HTML\' button to switch between the formatted content and HTML source.
 
-</div>
-
-<div markdown="1">
 Tip: Copying and pasting the content\'s HTML to your publishing platform
 will give you more accurate styles than copying and pasting the
 formatted content.
-
-
-</div>
-

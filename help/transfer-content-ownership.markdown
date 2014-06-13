@@ -1,5 +1,9 @@
 ---
+layout: help
 help_category: "Content"
+title: "Transfer content ownership"
+question: "How do I make someone else responsible for a content item"
+permalink: "content/transfer-content-ownership.html"
 ---
 
 Only admins and editor are able to create content items. The person who
@@ -18,24 +22,14 @@ Only admins and editors are able to transfer content ownership.
 
 To transfer ownership of a content item:
 
-
-
-1.  Open the content item in
-    question.
-2.  Click the \'Actions\' button
-    at the top of the content box and select \'Transfer ownership\' from
-    the drop down.
-3.  The team members who are
-    eligible to become the content owner will appear in the drop down.
-    Only team members who are admins or editors are eligible to be
-    content owners. A notice will tell you if there are no eligible team
+1.  Open the content item in question.
+2.  Click the \'Actions\' button at the top of the content box and select
+    \'Transfer ownership\' from the dropdown.
+3.  The team members who are eligible to become the content owner will appear
+    in the drop down. Only team members who are admins or editors are eligible
+    to be content owners. A notice will tell you if there are no eligible team
     members.
-4.  Select the team member you
-    wish to transfer ownership to.
-5.  Click \'Transfer\' to save
-    your selection.
-
-
+4.  Select the team member you wish to transfer ownership to.
+5.  Click \'Transfer\' to save your selection.
 
 The new content owner will notified by email of the transfer.
-

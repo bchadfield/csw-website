@@ -3,7 +3,7 @@ layout: help
 help_category: "Content"
 title: "Add preview template to content"
 question: "How do I add preview templates to content"
-permalink: ":help_category/:title.html"
+permalink: "content/add-preview-template-to-content.html"
 ---
 
 Preview templates [LINK TO CREATING PREVIEW TEMPLATES] allow team members to see what the content will look like when it is live.

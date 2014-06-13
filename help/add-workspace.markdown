@@ -3,7 +3,7 @@ layout: help
 help_category: "Admin"
 title: "Add workspace"
 question: "How do I add new workspaces"
-permalink: ":help_category/:title.html"
+permalink: "admin/add-workspace.html"
 ---
 
 This option is only available to accounts on the Freelancer or Agency plans.

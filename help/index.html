@@ -1,0 +1,22 @@
+---
+layout: default
+title: CS Workflow Help
+---
+
+<div class="content row">
+  <div class="small-12 large-9 medium-centered columns">
+    <h1>Help</h1>
+    <div class="help">
+      {% for help_category in site.help_categories %}
+        <h2><a href="{{ help_category[0] | downcase | replace: ' ', '-' }}/">{{ help_category[0] }}</a></h2>
+        {% for pages in help_category %}
+          {% for page in pages %}
+            {% if page.url %}
+              <a href="{{ page.url | remove_first:'/help/' }}">{{ page.question }}?</a><br>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      {% endfor %}
+    </div>
+   </div>
+</div>

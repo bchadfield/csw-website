@@ -1,12 +1,14 @@
 ---
+layout: help
 help_category: "Admin"
+title: "Change team member roles"
+question: "How do I the roles in my team"
+permalink: "admin/change-team-members-roles.html"
 ---
 
 Only admins are able to change the roles of team members.
 
 To change a team member\'s role:
-
-
 
 1.  Go to Team.
 2.  Click the Edit button that
@@ -17,8 +19,7 @@ To change a team member\'s role:
 4.  Click Save.
 
 
-
-*Roles summary*
+### Roles summary
 
 * Admin are able to administer the account and workspaces; Settings is
   only accessible to admins. Admins can also manage content and
@@ -34,4 +35,3 @@ To change a team member\'s role:
   also the content owner (content owners cannot approve their own
   content). Approvers are notified when content they are assigned to is
   sent to the Approval stage \[link to Approving content\].
-

@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="content row">
+  <div class="small-12 large-9 medium-centered columns">
+    <h1>{{ page.help_category }}</h1>
+    <div class="help">
+      {% for help_category in site.help_categories %}
+        {% if help_category[0] == page.help_category %}
+          {% for pages in help_category %}
+            {% for page in pages %}
+              {% if page.url %}
+                <div class="help-section">
+                  <h3><a href="{{ page.url | split:'/' | last }}">{{ page.question }}?</a></h3>
+                  <p>{{ page.content | strip_html | truncatewords: 30 }}</p>
+                </div>
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+    </div>
+   </div>
+</div>

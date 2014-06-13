@@ -1,13 +1,15 @@
 ---
+layout: help
 help_category: "Content"
+title: "Delete multiple content items"
+question: "How do I delete multiple content at once"
+permalink: "content/delete-multiple-content-items.html"
 ---
 
 Only admins or assigned editors are able to delete multiple content
 items.
 
 You can delete multiple content items using one of two ways:
-
-
 
 * Go to Content and click on Content tab.
 * Go to Content, click on the Categories tab and select a category from
@@ -22,4 +24,3 @@ For either of these options:
 
 Caution: The deletion of content items is a permanent action; items
 cannot be retrieved once deleted.
-

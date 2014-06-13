@@ -3,7 +3,7 @@ layout: help
 help_category: "Content"
 title: "Archive multiple content items"
 question: "How do I add people to my team"
-permalink: "content/archive-multiple.html"
+permalink: "content/archive-multiple-content-items.html"
 ---
 
 Only admins or assigned editors are able to archive multiple content items.

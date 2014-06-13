@@ -3,7 +3,7 @@ layout: help
 help_category: "Workflow"
 title: "Approving content"
 question: "How does content get approved"
-permalink: ":help_category/:title.html"
+permalink: "workflow/approving-content.html"
 ---
 
 Approvers can only approve content that they have been assigned to. The

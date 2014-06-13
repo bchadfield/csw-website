@@ -1,5 +1,9 @@
 ---
+layout: help
 help_category: "Workflow"
+title: "Unapproved content"
+question: "What happens to content if it's not approved"
+permalink: "workflow/unapproved-content.html"
 ---
 
 Content can be moved to the Ready or Live stages without approval. This
@@ -13,4 +17,3 @@ storage purposes only.
 Content in the Ready or Live stages that hasn\'t been approved is
 flagged as not being approved. This is indicated by an ! in the
 content\'s coloured stage label.
-
