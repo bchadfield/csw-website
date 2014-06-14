@@ -3,13 +3,14 @@ layout: help
 help_category: "Content"
 title: "Export content"
 question: "How do I export content for publishing"
-permalink: "workflow/export-content.html"
+permalink: "content/export-content.html"
 ---
 
 Only admins and editors are able to export content.
 
 Content must be in the Ready or Live stage before it can be exported.
-Read about getting content to the Ready and Live stage \[LINKS\].
+Read about getting content to the [Ready](/help/workflow/ready-content.html)
+and [Live](/help/workflow/live-content.html) stage.
 
 To export your content:
 
@@ -20,4 +21,4 @@ To export your content:
 
 The default options are export to Markdown, HTML and plain text. This downloads the content in the selected format.
 
-Any publishing integrations you have setup \[link to creating integrations\] will appear as export options.
+Any publishing [integrations](/help/integrations) you have setup will appear as export options.

@@ -20,5 +20,5 @@ To park a content item:
 The content will now be out of the workflow and read-only.
 
 To unpark content, simply move it into any workflow stage. We recommend
-starting with Draft \[link to draft content\] so that the content is at
+starting with [Draft](/help/workflow/draft-content.html) so that the content is at
 the start of the workflow.

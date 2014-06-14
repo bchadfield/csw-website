@@ -31,7 +31,5 @@ This means that the previous content type attributes will be replaced
 with the updated attributes and any values that were previously set will
 have been removed.
 
-If you want to apply an updated/edited content type to multiple content
-items, you can use the same process for changing multiple items
-\[LINK\].
+You can apply an updated/edited content type to [multiple content items](/help/content/change-multiple-content.html).
 

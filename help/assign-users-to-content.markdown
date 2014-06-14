@@ -18,8 +18,8 @@ currently assigned to the content.
 Hovering your mouse over a user\'s avatar will display their role(s)
 (i.e. admin, editor, reviewer, approver).
 
-Find out how to set default content assignments here \[LINK TO DEFAULT
-ASSIGNMENTS\].
+Save time by setting up [default content assignments](/help/admin/set-default-user-assignments.html)
+for your workspace.
 
 To change the users assigned to a content item:
 

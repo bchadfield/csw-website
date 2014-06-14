@@ -14,11 +14,11 @@ When content is in the review stage it is unable to be edited; only
 comments can be added.
 
 If there is a previous version of the content, the differences between
-the two versions are displayed. Green \[green text\] indicates additions
-and red \[red text\] deletions.
+the two versions are displayed. Green text indicates additions
+and red text shows deletions.
 
-Reviewers provide their feedback by making comments \[link to make
-comments\]. Reviewers are able to highlight sections of the text or the
+Reviewers provide their feedback by [making comments](/help/comments/make-comments.html).
+Reviewers are able to highlight sections of the text or the
 content type attributes and make comments against these sections.
 
 Once a review has been completed, the reviewer clicks the \'Finish

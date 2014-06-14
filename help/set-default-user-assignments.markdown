@@ -9,9 +9,9 @@ permalink: "admin/set-default-user-assignments.html"
 Default user assignments can only be set by admins.
 
 Default user assignments determine when a team member is automatically
-assigned to new content. This will save you from having to set
-the user assignments \[link to user assignments\] for every content item
-that is created.
+assigned to new content. This will save you from having to
+[set the user assignments](/help/content/assign-users-to-content.html) for
+every content item that is created.
 
 New team members are added to the default user assignments.
 

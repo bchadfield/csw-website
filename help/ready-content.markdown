@@ -21,9 +21,8 @@ Content enters the Ready stage in two ways:
 To help publish your content there are a few export options available to
 content in the Ready stage:
 
-* Export to Markdown, HTML, or plain text \[link to exporting content
-  section\]
-* Publish to an integrated platform \[link to Integrations section\]
+* [Export](/help/content/export-content.html) to Markdown, HTML, or plain text.
+* Publish to an [integrated platform](/help/integrations/).
 
 Click the \'Show HTML\' button to switch between the formatted content and HTML source.
 

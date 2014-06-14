@@ -14,7 +14,7 @@ Only content in the Ready and Live stages can be published to Twitter.
 To publish to Twitter:
 
 1.  Open the content item you want to tweet.
-2.  Click on the \'Export\' button. \[LINK TO EXPORTING CONTENT\]
+2.  Click on the \'Export\' button.
 3.  Select the Twitter integration from the drop down. This will show
     you a preview of the tweet.
 4.  Click \'Tweet\' to publish the content to Twitter.

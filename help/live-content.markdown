@@ -18,8 +18,8 @@ to Live.
 The following export options are available to content in the Ready
 stage:
 
-* Export to Markdown, HTML, or plain text
-* Publish to an integrated platform \[link to integrations section\]
+* [Export](/help/content/export-content.html) to Markdown, HTML, or plain text.
+* Publish to an [integrated platform](/help/integrations/).
 
 Content that has gone live can also be moved back to the Draft stage if
 updates or changes are required. Putting live content into Draft moves

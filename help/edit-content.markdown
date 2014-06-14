@@ -8,10 +8,10 @@ permalink: "workflow/edit-content.html"
 
 Content can only be edited by the content owner and assigned editor(s).
 
-To assign an editor to your content \[link to assigning users to
-content\] click the + button at the top right of the screen and add the
-editor to the content item. You can also set editors in your default
-assignments. \[link to default assignments\]
+To [assign an editor to your content](/help/content/assign-users-to-content.html) 
+click the + button at the top right of the screen and add the
+editor to the content item. You can also set editors in
+your [default assignments](/help/admin/set-default-user-assignments.html).
 
 When you are ready to move your content to the editing stage, click on
 the coloured drop down menu at the top of the content box and click

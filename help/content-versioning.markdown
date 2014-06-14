@@ -7,8 +7,10 @@ permalink: "versions/content-versioning.html"
 ---
 
 Content versions help you to keep track of what changes were made to
-your content and when they were made. Versions can be viewed, compared with and reverted to in the
-Versions tab of the content item. \[LINKS\]
+your content and when they were made. Versions can be [viewed](/help/versions/view-content-versions.html),
+[compared with](/help/versions/compare-content-versions.html)
+and [reverted to](/help/versions/revert-to-a-content-version.html) in the
+Versions tab of the content item.
 
 Versions track changes to the content body, content type attributes and
 the workflow stage of the content.
@@ -19,5 +21,4 @@ be edited, that is, in Draft and Edit.
 New versions of content are only created automatically when there are
 differences between the current and previous version (if one exists).
 
-Admins and editors are also able to manually create new versions of
-content. \[LINK Save content as new version\]
+Admins and editors are also able to [manually create new versions of content](/help/content/save-content-as-new-version.html).

@@ -6,7 +6,7 @@ question: "How do I save content as a new version"
 permalink: "content/save-content-as-new-version.html"
 ---
 
-Content versioning \[link to content versioning\] already happens automatically throughout the
+[Content versioning](/help/versions/content-versioning.html) already happens automatically throughout the
 workflow, however, there may be situations where you want to create a
 backup version of changes, e.g. changes made to a content item in Draft,
 prior to it being moved to the edit stage.

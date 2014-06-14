@@ -18,9 +18,8 @@ To revert to your content:
 3.  Click the \'revert\' link of the version you want to revert to. Confirm
     that is what you want to do.
 
-The current content and content type values are automatically saved as a
-new version \[link to save as new version\]. The content will take on the
-content body and any content attributes of the version being reverted to.
+The current content and content type values are automatically [saved as a new version](/help/content/save-content-as-new-version.html).
+The content will take on the content body and any content attributes of the version being reverted to.
 
 The version number will be incremented; it will not be the same as the
 version number reverted to.

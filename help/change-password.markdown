@@ -23,5 +23,5 @@ To change your password:
 You\'ll receive an email confirming the password change as a security
 measure.
 
-You can reset your password \[link to reset forgotten password\] if
+You can [reset your password](https://app.csworkflow.com/password_resets/new) if
 you\'ve forgotten your password and can\'t log in.

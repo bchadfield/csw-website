@@ -14,9 +14,7 @@ To edit an existing content type:
 2.  Click on the content type you want to edit. This can be done by
     either clicking on the name of the content type or the Edit button
     that corresponds with the content type.
-3.  Edit the content type by adding or removing the properties you want.
-    You can read more about content type properties here \[LINK TO
-    CREATING CONTENT TYPES\].
+3.  Edit the content type by [adding or removing the properties](/help/content-types/add-content-type.html) you want.
 4.  Click the \'Save content type\' button to confirm your changes.
 
 Now when you add the content type to a content item the updated

@@ -25,7 +25,7 @@ To set up you Twitter integration:
     correct.
 6.  A description of the integration will automatically be generated;
     this can be edited at any time. The description is what will appear
-    in the export options \[LINK TO EXPORTING CONTENT\]. Make sure your
+    in the [export options](/help/content/export-content.html). Make sure your
     description is unique and adequately describes the integration.
 7.  Click \'Save integration\'.
 

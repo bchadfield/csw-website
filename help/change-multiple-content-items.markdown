@@ -32,7 +32,7 @@ For either of these options:
     * *Content type*\: Select the content type from the drop down.
     * *Preview template*\: Select the preview content from the drop
       down.
-
 4.  Click Save.
 
-Caution: Changing or removing your content\'s content type will delete any values that were set as the previous content type\'s attributes.
+Caution: Changing or removing your content\'s content type will delete any
+values that were set as the previous content type\'s attributes.

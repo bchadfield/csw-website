@@ -18,6 +18,5 @@ To view a past version:
 You will be able to see the body text, content type attributes and
 workflow stage.
 
-You are also given the options to compare and revert to past versions.
-\[link to compare and revert to versions\]
-
+You are also given the options to [compared with](/help/versions/compare-content-versions.html)
+and [reverted to](/help/versions/revert-to-a-content-version.html) past versions.

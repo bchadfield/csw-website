@@ -7,8 +7,8 @@ permalink: "preview-templates/using-preview-templates.html"
 ---
 
 Anyone is able to preview content using a preview template as long as the
-template has been added to the content item you want to preview.
-\[link to adding preview template\].
+[template has been added to the content](/help/content/add-preview-template-to-content.html)
+you want to preview.
 
 How you preview content depends on your role:
 

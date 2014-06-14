@@ -32,8 +32,7 @@ To set up a new content type:
 
 5.  Click the \'Save content type\' button to confirm your changes.
 
-The content type will now be available to be assigned to content items.
-\[LINK TO ADDING CONTENT TYPE TO CONTENT\].
+The content type will now be available to be [assigned to content items](/help/content/change-content-content-type.html).
 
 ###  Adding attributes
 
