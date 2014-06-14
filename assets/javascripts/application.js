@@ -1,4 +1,9 @@
 $(document).ready(function(){
+  // LEFT NAV TOGGLE
+  $('.sub-nav-toggle').on('click', function(){
+    $('.sub-nav').toggleClass('sub-nav-visible');
+  });
+
   if($('body.home').length > 0) {
     $('body.home').scrollspy();
     $(window).scroll(function(){

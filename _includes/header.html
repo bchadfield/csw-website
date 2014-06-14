@@ -1,11 +1,18 @@
     <header>
       <div class="row">
-        <div class="small-6 columns">
+        <div class="small-12 columns">
           <a href="http://csworkflow.com"><img src="/assets/images/logo-light.png" class="csw-logo" alt="CS Workflow logo" /></a>
-        </div>
-        <div class="small-6 columns">
-          <dl class="sub-nav right">
-            <dd class="active"><a href="/blog">Blog</a></dd>
+          <button type="button" class="sub-nav-toggle">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="toggle-bar"></span>
+            <span class="toggle-bar"></span>
+            <span class="toggle-bar"></span>
+          </button>
+          <dl class="sub-nav">
+            <dd><a href="/">Home</a></dd>
+            <dd{% if page.url contains '/help/' %} class="active"{% endif %}><a href="/help">Help</a></dd>
+            <dd{% if page.url contains '/blog/' %} class="active"{% endif %}><a href="/blog">Blog</a></dd>
+            <dd class="login"><a href="https://app.csworkflow.com/login" class="button radius">Login</a></dd>
           </dl>
         </div>
       </div>

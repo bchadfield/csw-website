@@ -16,16 +16,19 @@ footer h3,
 footer .contact-details { background-color: rgb(70, 70, 70); background-color: rgba(70, 70, 70, 0.6); }
 img.bordered { background-color: #fff; border: 3px solid #fff; }
 img.csw-logo { width: 192px; padding: 15px 0; }
-.sub-nav { height: 100%; margin-bottom: 0; }
-.sub-nav dd { display: inline-block; padding: 17px 10px 13px 10px; margin-bottom: 0; }
+.sub-nav { height: 100%; margin-bottom: 0; display: none; }
+.sub-nav dd { padding: 17px 10px 13px 10px; margin-bottom: 0; }
 .sub-nav dd.login { padding: 0; }
 .sub-nav dd.login a.button { color: #fff; margin: 0; padding: 0.8rem 1.1rem;}
 .sub-nav dd a { color: #fff; }
 .sub-nav dd a:hover { color: #57ad57; text-decoration: none; }
-.sub-nav dd.active { border-bottom: 5px solid #57ad57; line-height: 1.8rem; }
+.sub-nav-toggle{position:relative;float:right;margin-right:15px;padding:9px 10px;margin-top:8px;margin-bottom:8px;background-color:transparent;background-image:none;border:1px solid transparent;border-radius:4px}
+.sub-nav-toggle:focus{outline:0}
+.sub-nav-toggle .toggle-bar{display:block;width:22px;height:2px;border-radius:1px;background-color:#fff}
+.sub-nav-toggle .toggle-bar+.toggle-bar{margin-top:4px}
 .separator { height: 1px; background-color: #57ad57; }
 .hero { padding-top: 180px; text-align: center; }
-.hero h1 { font-size: 3rem; padding: 0 7px; }
+.hero h1 { font-size: 3.5rem; padding: 0 7px; }
 .hero h1, .hero p { display: inline-block; color: #fff; text-shadow: 0 0 1px rgba(70, 70, 70, 0.4); }
 .hero p { padding: 0 3px 2px 3px; margin: 20px 0 60px 0; font-size: 1.3rem; line-height: 1.25em; }
 .hero p strong, p.lead strong { font-weight: normal; border-bottom: 1px solid #57ad57; }
@@ -159,12 +162,14 @@ footer .contact a { color: #fff; }
 footer .footer-links { margin: 25px 0 5px 0; text-align: center; font-size: 0.9em; }
 footer .copyright { font-size: 0.8em; color: #999; text-align: center; }
 body.home .copyright { color: #f3f3f4; }
+.sr-only { display: none; }
 
 @media only screen and (max-width: 40em) {
 	.hide-small { display: none !important; }
-	header { position: relative !important; background-color: rgb(70, 70, 70) !important; background-color: rgba(70, 70, 70, 0.4) !important; padding: 10px 0 !important; }
+	header { position: relative !important; background-color: rgb(70, 70, 70) !important; padding: 10px 0 !important; }
 	.hero { padding-top: 20px; }
 	.hero h1 { font-size: 2.2rem}
+	.sub-nav.sub-nav-visible { display: block; }
 }
 
 @media only screen and (min-width: 40.063em) {
@@ -172,6 +177,10 @@ body.home .copyright { color: #f3f3f4; }
 	table.comparison td { font-size: 0.9rem; }
 	footer .contact { display: inline-block; }
 	.hero { padding-bottom: 190px; }
+	.sub-nav { float: right; display: block; }
+	.sub-nav dd { display: inline-block; }
+	.sub-nav dd.active { border-bottom: 5px solid #57ad57; line-height: 1.8rem; }
+	.sub-nav-toggle { display: none; }
 }
 
 @media only screen and (min-width: 40.063em) and (max-width: 64.063em) {
