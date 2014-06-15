@@ -6,6 +6,7 @@ title: CS Workflow Help
 <div class="content row">
   <div class="small-12 large-9 medium-8 columns">
     <h1>Help</h1>
+    {% include search_form.html %}
     <div class="help">
       {% for help_category in site.help_categories %}
         <h2><a href="/help/{{ help_category[0] | downcase | replace: ' ', '-' }}/">{{ help_category[0] }}</a></h2>
