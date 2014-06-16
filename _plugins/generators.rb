@@ -19,7 +19,7 @@ module Jekyll
           hash[key] << page
         end
       end
-      hash
+      hash.sort { |a,b| b[1].length <=> a[1].length }
     end
   end
 

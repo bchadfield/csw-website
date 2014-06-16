@@ -154,10 +154,15 @@ input[type=text].error + i, input[type=email].error + i { color: #c64548; opacit
 }
 .input-with-icon.columns i { left: 1em; }
 .input-with-icon input:focus + i { opacity: 1; color: #57ad57; }
+.help-index-section { padding-bottom: 20px; position: relative; }
+.help-index-section h2 a { color: #464646; font-size: 2rem; }
+.help-index-section p { line-height: 1.25rem; margin-bottom: .6rem; }
+.help-index-section .help-category-link { color: #888; font-size: .75rem; position: absolute; top: 15px; right: 0; }
 .sidebar > section { background-color: #f3f3f4; padding: 10px 20px; margin-bottom: 2px; }
 .side-nav { list-style: none; margin-left: 0; font-size: 0.9rem; }
 #search { border-bottom: 1px solid #f3f3f4; padding-bottom: 15px; margin-bottom: 15px; }
 #search-query { width: 100%; }
+.sidebar #search-query { padding: .5em .8em; }
 footer h3, footer .contact-details { color: #fff; display: inline-block; text-align: center; }
 footer .contact { padding: 3px; }
 footer .contact a { color: #fff; }
@@ -183,6 +188,7 @@ body.home .copyright { color: #f3f3f4; }
 	.sub-nav dd { display: inline-block; }
 	.sub-nav dd.active { border-bottom: 5px solid #57ad57; line-height: 1.8rem; }
 	.sub-nav-toggle { display: none; }
+	.help-index-section .help-category-link { top: 20px; }
 }
 
 @media only screen and (min-width: 40.063em) and (max-width: 64.063em) {
