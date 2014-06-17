@@ -9,7 +9,7 @@ description: "7 great tips for outsourcing your blog writing to a freelancer or 
 
 An undead blog looks alive from a distance, but because of circumstances
 \'out of your control\', your blog is actually dead. Once upon a time
-your blog was loved. You brought into this world after all. Every now
+your blog was loved. You brought it into this world after all. Every now
 and then you hear of its cries for attention and feed it fresh posts,
 but you know, deep down, that\'s not enough.
 
