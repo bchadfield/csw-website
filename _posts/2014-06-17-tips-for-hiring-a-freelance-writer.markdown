@@ -1,10 +1,13 @@
 ---
-layout: post
+layout: post_with_image
 title: "7 tips for hiring a freelance writer"
 date:   2014-06-17 11:00:00
 author: "Ben Chadfield"
 author_url: https://twitter.com/benchadfield
 description: "7 great tips for outsourcing your blog writing to a freelancer or agency"
+image: /assets/images/blog/naranjas.png
+repeat: repeat
+font_color: light
 ---
 
 An undead blog looks alive from a distance, but because of circumstances

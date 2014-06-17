@@ -1,10 +1,13 @@
 ---
-layout: post
+layout: post_with_image
 title:  "We're open for business"
 date:   2014-05-14 10:00:00
 author: "Vicky Claringbull"
 author_url: https://twitter.com/vclaringbull
 description: "CS Workflow launched on May 14 and is open for business with 3 generous plans"
+image: /assets/images/blog/bunting-flag.png
+repeat: repeat
+font_color: dark
 ---
 
 CS Workflow has launched! We're now taking sign ups through the website.

@@ -1,10 +1,13 @@
 ---
-layout: post
+layout: post_with_image
 title:  "Project misalignment is a silent killer"
 date:   2013-12-26 10:00:00
 author: "Anonymous from Blog Secret Santa"
 author_url: http://secretsanta.csworkflow.com/draws/2013/gifts
 description: "However, don't forget to invest a lot of time into the alignment portion of things. Regardless of project size, you'll want to be sure to cover all of your stakeholder and user requirements."
+image: /assets/images/blog/science.png
+repeat: repeat
+font_color: light
 ---
 
 I know, I know. The actual content strategy work is so much fun. It's easy to get caught up in audits, modeling, governing, and all that sexy stuff. However, don't forget to invest a lot of time into the alignment portion of things. Regardless of project size, you'll want to be sure to cover all of your stakeholder and user requirements.

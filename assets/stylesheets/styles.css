@@ -91,7 +91,7 @@ table.comparison td.yes { font-weight: normal; color: #57ad57; }
 table.comparison td.no { font-weight: normal; color: #c64548; }
 h1.posts-intro { height: 0 !important; text-indent: -1000rem; }
 .content { padding-top: 30px; }
-.post-meta { color: #777; font-weight: 300; }
+.post-meta { font-weight: 300; }
 .post-content { margin: 30px 0; padding-bottom: 20px; }
 .posts .post-content { border-bottom: 1px solid #f3f3f4; }
 .posts .post-content:last-child { border-bottom: 0; }
@@ -192,6 +192,15 @@ body.home .copyright { color: #f3f3f4; }
 	.sub-nav dd.active { border-bottom: 5px solid #57ad57; line-height: 1.8rem; }
 	.sub-nav-toggle { display: none; }
 	.help-index-section .help-category-link { top: 20px; }
+	.post-header { padding-top: 15rem; }
+	.post-header h1 { font-weight: bold; }
+	.post-header.light .post-header-content { padding-bottom: 5px; background-color: rgba(0,0,0,0.2); }
+	.post-header.light h1,
+	.post-header.light .post-meta,
+	.post-header.light a { color: #fff; }
+	.post-header a { font-weight: bold; }
+	.post-header.dark .post-header-content { padding-bottom: 5px; background-color: rgba(255,255,255,0.4); }
+	.post-header.dark a { color: #464646; }
 }
 
 @media only screen and (min-width: 40.063em) and (max-width: 64.063em) {
