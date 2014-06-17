@@ -158,7 +158,10 @@ input[type=text].error + i, input[type=email].error + i { color: #c64548; opacit
 .help-index-section h2 a { color: #464646; font-size: 2rem; }
 .help-index-section p { line-height: 1.25rem; margin-bottom: .6rem; }
 .help-index-section .help-category-link { color: #888; font-size: .75rem; position: absolute; top: 15px; right: 0; }
-.sidebar > section { background-color: #f3f3f4; padding: 10px 20px; margin-bottom: 2px; }
+.sidebar > section { background-color: #f3f3f4; padding: 10px 15px; margin-bottom: 2px; }
+.sidebar p.small { font-size: 0.8rem; line-height: 1.25rem; margin-bottom: 0.5rem; }
+.sidebar .newsletter-subscribe .button { background: #f3f3f4; color: #57ad57; padding: 0.8rem 0.8rem; margin-top: 10px; font-size: 0.9rem; }
+.sidebar .newsletter-subscribe .email { padding: .85em 0.8em; width: 100%; }
 .side-nav { list-style: none; margin-left: 0; font-size: 0.9rem; }
 #search { border-bottom: 1px solid #f3f3f4; padding-bottom: 15px; margin-bottom: 15px; }
 #search-query { width: 100%; }
