@@ -15,7 +15,8 @@ a:hover { color: #57ad57; }
 footer h3,
 footer .contact-details { background-color: rgb(70, 70, 70); background-color: rgba(70, 70, 70, 0.6); }
 img.bordered { background-color: #fff; border: 3px solid #fff; }
-img.csw-logo { width: 192px; padding: 15px 0; }
+header .csw-logo { float: left; }
+header .csw-logo img { width: 192px; padding: 15px 0; }
 .sub-nav { height: 100%; margin-bottom: 0; display: none; }
 .sub-nav dd { padding: 17px 10px 13px 10px; margin-bottom: 0; }
 .sub-nav dd.login { padding: 0; }
