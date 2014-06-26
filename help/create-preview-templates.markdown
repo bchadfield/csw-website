@@ -6,7 +6,9 @@ question: "How do I setup my own designs to preview content with"
 permalink: "preview-templates/create-preview-templates.html"
 ---
 
-Preview templates allow team members to viww content as it will appear
+<iframe width="640" height="360" src="//www.youtube.com/embed/3Zp0xaeDaU4?vq=hd1080" frameborder="0" allowfullscreen=""></iframe>
+
+Preview templates allow team members to view content as it will appear
 when live.
 
 You can add, edit and delete preview templates at any time.
@@ -45,7 +47,7 @@ The second way is to manually enter the HTML and CSS into the respective
 text areas. Only the HTML is required; the CSS is optional.
 
 ####  3. Add template tags
-
+{% raw %}
 Template tags are used to dynamically place the content being previewed
 in the template. Tags start and end with two curly brackets. The only
 required template tag is `{{ body }}`.
@@ -58,7 +60,7 @@ content type attributes. For example the default blog content type has
 the Author attribute. The template tag for this attribute is `{{ author }}`.
 Besides `{{ body }}` the only other default template tag is `{{ title }}`
 which will add the content name or title attribute if it exists.
-
+{% endraw %}
 ####  4. Save your template
 
 Make sure you save your work by clicking the \'Save template\' button.
