@@ -180,7 +180,7 @@ body.home .copyright { color: #f3f3f4; }
 	header { position: relative !important; background-color: rgb(70, 70, 70) !important; padding: 10px 0 !important; }
 	.hero { padding-top: 20px; }
 	.hero h1 { font-size: 2.2rem}
-	.sub-nav.sub-nav-visible { display: block; }
+	.sub-nav.sub-nav-visible { display: block; margin-top: 65px; }
 }
 
 @media only screen and (min-width: 40.063em) {
@@ -189,7 +189,8 @@ body.home .copyright { color: #f3f3f4; }
 	footer .contact { display: inline-block; }
 	.hero { padding-bottom: 190px; }
 	.sub-nav { float: right; display: block; }
-	.sub-nav dd { display: inline-block; }
+	.sub-nav dd { display: inline-block; margin-left: 10px; }
+	.home .sub-nav dd { margin-left: 0px; }
 	.sub-nav dd.active { border-bottom: 5px solid #57ad57; line-height: 1.8rem; }
 	.sub-nav-toggle { display: none; }
 	.help-index-section .help-category-link { top: 20px; }
@@ -200,7 +201,7 @@ body.home .copyright { color: #f3f3f4; }
 	.post-header.light .post-meta,
 	.post-header.light a { color: #fff; }
 	.post-header a { font-weight: bold; }
-	.post-header.dark .post-header-content { padding-bottom: 5px; background-color: rgba(255,255,255,0.4); }
+	.post-header.dark .post-header-content { padding-bottom: 5px; background-color: rgba(255,255,255,0.6); }
 	.post-header.dark a { color: #464646; }
 }
 
