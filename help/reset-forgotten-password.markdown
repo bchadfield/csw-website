@@ -1,6 +1,6 @@
 ---
 layout: help
-help_category: "Team members"
+help_category: "User accounts"
 title: "Reset forgotten password"
 question: "What do I do if I've forgotten my password"
 permalink: "team-members/forgotten-password.html"

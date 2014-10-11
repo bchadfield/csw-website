@@ -18,5 +18,3 @@ To add a team member to the workspace:
 4.  Click Add to complete the form.
 
 Completing the form will send out an invitation to the workspace to the new team member.
-
-New team members are [assigned by default](/help/admin/set-default-user-assignments.html) to all new content in that workspace.

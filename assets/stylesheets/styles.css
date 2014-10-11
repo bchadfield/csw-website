@@ -29,9 +29,11 @@ header .csw-logo img { width: 192px; padding: 15px 0; }
 .sub-nav-toggle .toggle-bar+.toggle-bar{margin-top:4px}
 .separator { height: 1px; background-color: #57ad57; }
 .hero { padding-top: 180px; text-align: center; }
-.hero h1 { font-size: 3.5rem; padding: 0 7px; }
+.hero h1 { font-size: 3rem; padding: 0 7px; font-weight: 400; }
+.hero h1 del { color: #ffcccc; text-decoration: line-through; }
+.hero h1 ins { color: #ccffcc; text-decoration: none; }
 .hero h1, .hero p { display: inline-block; color: #fff; text-shadow: 0 0 1px rgba(70, 70, 70, 0.4); }
-.hero p { padding: 0 3px 2px 3px; margin: 20px 0 60px 0; font-size: 1.3rem; line-height: 1.25em; }
+.hero p { padding: 0 3px 2px 3px; margin: 20px 0 60px 0; font-size: 1.5rem; line-height: 1.25em; font-weight: 300; }
 .hero p strong, p.lead strong { font-weight: normal; border-bottom: 1px solid #57ad57; }
 .hero a.button.signup,
 form.signup .button  {
@@ -52,11 +54,12 @@ body.home .content h2 { text-align: center; }
 form.signup .field { margin-bottom: 10px; }
 form.signup .field input { display: block; width: 100%; }
 form.signup .button { font-size: 1rem; }
+/*.workflow .steps h3 { font-size: 1.25rem;}*/
 .workflow .step { padding-top: 10px; }
-.workflow .step.create i, .workflow .create h3 { color: #999;}
-.workflow .step.review i, .workflow .review h3 { color: #f0ad4e;}
-.workflow .step.approve i, .workflow .approve h3 { color: #a569bf;}
-.workflow .step.publish i, .workflow .publish h3 { color: #5bc0de;}
+.workflow .step.review i, .workflow .review h3 { color: #5bc0de;}
+.workflow .step.feedback i, .workflow .feedback h3 { color: #a569bf;}
+.workflow .step.access i, .workflow .access h3 { color: #f0ad4e;}
+.workflow .step.approve i, .workflow .approve h3 { color: #57ad57;}
 .workflow .step i { font-size: 2.5rem; display: block; text-align: center; }
 .workflow .step h3 { font-size: 1.3rem; text-align: center; font-weight: normal; }
 .workflow .step h3, .workflow .step-detail h3 { font-weight: normal; }
@@ -64,10 +67,10 @@ form.signup .button { font-size: 1rem; }
 .workflow .step-detail .explanation h3 { margin-top: 40px; }
 .workflow .step-detail .explanation h3, .workflow .step-detail .explanation p { padding-left: 15px; }
 .workflow .step-detail .screenshot img { border-radius: 15px; width: 450px; border: 3px solid; }
-.workflow .step-detail.create .screenshot img { border-color: #999; }
-.workflow .step-detail.review .screenshot img { border-color: #f0ad4e; }
-.workflow .step-detail.approve .screenshot img { border-color: #a569bf; }
-.workflow .step-detail.publish .screenshot img { border-color: #5bc0de; }
+.workflow .step-detail.review .screenshot img { border-color: #5bc0de; }
+.workflow .step-detail.feedback .screenshot img { border-color: #a569bf; }
+.workflow .step-detail.access .screenshot img { border-color: #f0ad4e; }
+.workflow .step-detail.approve .screenshot img { border-color: #57ad57; }
 .features h3 { font-weight: normal; }
 .large-icon { width: 180px; height: 180px; margin: 0 auto; text-align: center; background-color: #ccc; border-radius: 90px; }
 .large-icon.handshake img { width: 120px; position: relative; top: 43px; }
@@ -187,7 +190,7 @@ body.home .copyright { color: #f3f3f4; }
 	table.comparison th { font-size: 1.3rem; }
 	table.comparison td { font-size: 0.9rem; }
 	footer .contact { display: inline-block; }
-	.hero { padding-bottom: 190px; }
+	.hero { padding-bottom: 280px; }
 	.sub-nav { float: right; display: block; }
 	.sub-nav dd { display: inline-block; margin-left: 10px; }
 	.home .sub-nav dd { margin-left: 0px; }

@@ -1,6 +1,6 @@
 ---
 layout: help
-help_category: "Team members"
+help_category: "User accounts"
 title: "Switch workspace"
 question: "How do I switch between workspaces"
 permalink: "team-members/switch-workspace.html"

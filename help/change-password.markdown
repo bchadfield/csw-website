@@ -1,6 +1,6 @@
 ---
 layout: help
-help_category: "Team members"
+help_category: "User accounts"
 title: "Change password"
 question: "How do I update my password"
 permalink: "team-members/change-password.html"

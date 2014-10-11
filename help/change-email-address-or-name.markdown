@@ -1,8 +1,8 @@
 ---
 layout: help
-help_category: "Team members"
+help_category: "User accounts"
 title: "Change email address or name"
-question: "How do I my email address or name"
+question: "How do I change my email address or name"
 permalink: "team-members/change-email-address-or-name.html"
 ---
 

@@ -15,18 +15,15 @@ directly involved in the preparation of that content for publication.
 User avatars, found above the Comments tab, show which team members are
 currently assigned to the content.
 
-Hovering your mouse over a user\'s avatar will display their role(s)
-(i.e. admin, editor, reviewer, approver).
-
-Save time by setting up [default content assignments](/help/admin/set-default-user-assignments.html)
-for your workspace.
+Hovering your mouse over an assigned user\'s avatar shows you a summary of
+their assignment. 
 
 To change the users assigned to a content item:
 
 1.  Open the content item in question.
-2.  Click the + button to the right of the assigned users at the top
+2.  Click an avatar for one of the assigned users at the top
     right of the page.
-3.  This will display the current members of the workspace. The
+3.  This will display the  of the workspace. The
     checkboxes on the left most column show whether or not a team member
     is assigned to the content. The content owner\'s status can\'t be
     changed and their checkbox is disabled.

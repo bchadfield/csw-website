@@ -2,7 +2,7 @@ name: CS Workflow
 markdown: kramdown
 pygments: true
 permalink: /blog/:categories/:title.html
-destination: /Users/Ben/Documents/Code/csw-website/
+# destination: /Users/Ben/Documents/Code/csw-website/
 exclude: [rakefile.rb, Gemfile, Gemfile.lock]
 defaults:
   -

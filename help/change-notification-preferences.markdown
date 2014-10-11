@@ -1,6 +1,6 @@
 ---
 layout: help
-help_category: "Team members"
+help_category: "User accounts"
 title: "Change notification preferences"
 question: "How do I change how often I get notification emails"
 permalink: "team-members/change-notification-preferences.html"

@@ -1,6 +1,6 @@
 ---
 layout: help
-help_category: "Team members"
+help_category: "User accounts"
 title: "Change user avatar"
 question: "How do I change my profile picture"
 permalink: "team-members/change-user-avatar.html"
