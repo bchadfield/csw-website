@@ -12,8 +12,7 @@ where content is not published, for example support email templates, so
 the Live stage can also be used to show the content is complete and in
 use.
 
-Only admin and assigned editors are able to manually move ready content
-to Live.
+Only admins can manually move ready content to Live.
 
 The following export options are available to content in the Ready
 stage:

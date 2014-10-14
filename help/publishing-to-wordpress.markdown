@@ -26,7 +26,7 @@ are:
   needs to be set to the display name of the blog user and the user must
   have author or admin privileges.
 
-Only admins or editors can publish content to Wordpress.
+Only admins can publish content to Wordpress.
 
 Only content that is in the Ready or Live stages can be exported.
 

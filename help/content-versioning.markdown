@@ -21,4 +21,4 @@ be edited, that is, in Draft and Edit.
 New versions of content are only created automatically when there are
 differences between the current and previous version (if one exists).
 
-Admins and editors are also able to [manually create new versions of content](/help/content/save-content-as-new-version.html).
+Admins can also [manually create new versions of content](/help/content/save-content-as-new-version.html).

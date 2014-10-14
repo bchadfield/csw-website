@@ -9,7 +9,7 @@ permalink: "content/add-preview-template-to-content.html"
 [Preview templates](/help/preview-templates/create-preview-templates.html) allow
 team members to see what the content will look like when it is live.
 
-Only admins and editors are able to add preview templates to content.
+Only admins are able to add preview templates to content.
 
 You can add preview templates to [content items during creation](/help/content/create-content.html).
 
@@ -23,7 +23,5 @@ To add a preview template to existing content:
     will be shown in the dropdown.
 5.  Click Save.
 
-How you preview content depends on your role:
-
-* *Admin/Editors*: Click on Actions and select Preview.
-* *Reviewers/Approvers*: Click on the Preview button at the top of the content box.
+The content will now use the preview template when in a read-only workflow stage (all stages except draft and edit)
+or when a workspace admin clicks the Preview option in a content items More menu.

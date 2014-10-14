@@ -8,7 +8,7 @@ permalink: "content/duplicate-content.html"
 
 Duplicating content is an easy way to copy a content item.
 
-Only admins and editors are able to duplicate content.
+Only admins are able to duplicate content.
 
 To duplicate a content item:
 

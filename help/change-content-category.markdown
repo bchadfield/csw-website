@@ -6,7 +6,7 @@ question: "How do I change a content's category"
 permalink: "content/change-content-category.html"
 ---
 
-Only admins or assigned editors are able to change content settings.
+Only admins are able to change content settings.
 
 Content categories can be used to group your content in the workspace.
 

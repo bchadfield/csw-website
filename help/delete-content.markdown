@@ -6,7 +6,7 @@ question: "How do I delete content"
 permalink: "content/delete-content.html"
 ---
 
-Only admins and editors are able to delete content.
+Only admins are able to delete content.
 
 Deleting a content item permanently removes the content, its versions
 and comments from your workspace. This is an irreversible action.

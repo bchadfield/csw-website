@@ -6,7 +6,7 @@ question: "How do I change a content's name"
 permalink: "content/change-content-name.html"
 ---
 
-Only admins or assigned editors are able to change content settings.
+Only admins are able to change content settings.
 
 To change the name of a content item:
 

@@ -6,7 +6,7 @@ question: "What does parking content mean"
 permalink: "content/park-content.html"
 ---
 
-Only admins and editors can park content.
+Only admins can park content.
 
 Parking content places it on hold. This can be used as a backlog of
 ideas or to set aside content that has stalled.

@@ -6,7 +6,7 @@ question: "How do I change the content type a content item has"
 permalink: "content/change-content-content-type.html"
 ---
 
-Only admins or assigned editors are able to change content settings.
+Only admins are able to change content settings.
 
 Content types determine the attributes and rules of your content.
 

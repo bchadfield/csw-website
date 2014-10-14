@@ -9,7 +9,7 @@ permalink: "versions/revert-to-a-content-version.html"
 You can revert your content to a previous version. Reverting returns the content body and
 content type attributes to those in the selected version.
 
-Only admins or editors can revert content to a previous version.
+Only admins can revert content to a previous version.
 
 To revert to your content:
 

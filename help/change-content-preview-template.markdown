@@ -6,7 +6,7 @@ question: "How do I change a content's preview template"
 permalink: "content/change-content-preview-template.html"
 ---
 
-Only admins or assigned editors are able to change content settings.
+Only admins are able to change content settings.
 
 To change a content\'s preview template:
 
@@ -19,9 +19,5 @@ To change a content\'s preview template:
     select the blank field this will remove the preview template.
 4.  Click Save.
 
-You can now preview the content. How you preview content depends on your
-role:
-
-* *Admin/Editors*: Click on Actions and select Preview.
-* *Reviewers/Approvers*: Click on the Preview button at the top of the content box.
-
+The content will now use the preview template when in a read-only workflow stage (all stages except draft and edit)
+or when a workspace admin clicks the Preview option in a content items More menu.

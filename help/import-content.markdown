@@ -10,7 +10,7 @@ The import function allows you to
 bring in content from DOCX and Markdown files on your computer. This
 function is only available at the Draft and Edit stages.
 
-Only admins and editors are able to import content.
+Only admins are able to import content.
 
 To import content:
 

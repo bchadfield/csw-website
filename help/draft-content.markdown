@@ -9,7 +9,7 @@ permalink: "workflow/draft-content.html"
 All new content in CS Workflow is placed in the Draft stage (indicated
 by the colour grey in the top drop down button).
 
-Once created, content can only be edited by admins and assigned editors.
+Once created, content can only be edited by admins.
 
 ### Creating content
 

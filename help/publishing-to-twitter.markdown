@@ -6,8 +6,7 @@ question: "How do I publish my content directly to Twitter"
 permalink: "integrations/publishing-to-twitter.html"
 ---
 
-Only admins and editors are able to publish to integrated Twitter
-accounts.
+Only admins are able to publish to integrated Twitter accounts.
 
 Only content in the Ready and Live stages can be published to Twitter.
 
@@ -25,4 +24,3 @@ To publish to Twitter:
 
 Move the content to the Live stage in CS Workflow to notify everyone
 associated with content that is has gone live.
-

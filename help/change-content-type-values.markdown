@@ -10,7 +10,7 @@ Applying an updated/edited content type will delete any values in your
 content that were set as part of the previous content type\'s
 attributes.
 
-Only admin and editors are able to change the content type of a content
+Only admins can change the content type of a content
 item.
 
 Updating a content item\'s content type is a two-step process.

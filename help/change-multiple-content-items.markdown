@@ -6,7 +6,7 @@ question: "How do I change multiple content items at one time"
 permalink: "content/change-multiple-content.html"
 ---
 
-Only admins or assigned editors are able to change multiple content
+Only admins are able to change multiple content
 items.
 
 The category, content type and preview template can be changed on

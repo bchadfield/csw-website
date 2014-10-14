@@ -6,7 +6,7 @@ question: "How do I export content for publishing"
 permalink: "content/export-content.html"
 ---
 
-Only admins and editors are able to export content.
+Only admins are able to export content.
 
 Content must be in the Ready or Live stage before it can be exported.
 Read about getting content to the [Ready](/help/workflow/ready-content.html)

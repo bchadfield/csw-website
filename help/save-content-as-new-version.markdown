@@ -11,7 +11,7 @@ workflow, however, there may be situations where you want to create a
 backup version of changes, e.g. changes made to a content item in Draft,
 prior to it being moved to the edit stage.
 
-Only admins and editors are able to save content as a new version.
+Only admins are able to save content as a new version.
 
 To save content as a new version:
 

@@ -6,7 +6,7 @@ question: "How do I delete multiple content at once"
 permalink: "content/delete-multiple-content-items.html"
 ---
 
-Only admins or assigned editors are able to delete multiple content
+Only admins are able to delete multiple content
 items.
 
 You can delete multiple content items using one of two ways:

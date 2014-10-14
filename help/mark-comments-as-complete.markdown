@@ -9,7 +9,7 @@ permalink: "comments/mark-comments-as-complete.html"
 As well as providing feedback, comments can also act as a todo list for
 people responding to feedback.
 
-Only admins and editors are able to mark comments as complete.
+Only admins are able to mark comments as complete.
 
 Marking a comment as complete lets everyone know that the feedback as
 been actioned.
@@ -19,4 +19,3 @@ the top right of the comment. This will check off the comment and grey
 it out.
 
 To uncheck a comment simply click the checked checkbox icon.
-

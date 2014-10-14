@@ -12,7 +12,7 @@ content will need to be moved back to Draft or Edit stages.
 
 Content enters the Ready stage in two ways:
 
-1.  *Manually*\: admin or the assigned editor can move content to the
+1.  *Manually*\: an admin can move content to the
     Ready stage at any time. This content will be flagged as not being
     approved.
 2.  *Automatically from Approval stage*\: when the content has been
