@@ -97,6 +97,7 @@ h1.posts-intro { height: 0 !important; text-indent: -1000rem; }
 .content { padding-top: 30px; }
 .post-meta { font-weight: 300; }
 .post-content { margin: 30px 0; padding-bottom: 20px; }
+.post-content img { border-radius: 15px; width: 100%; border: 3px solid #f3f3f4; }
 .posts .post-content { border-bottom: 1px solid #f3f3f4; }
 .posts .post-content:last-child { border-bottom: 0; }
 .plans .plan { text-align: center; border: 3px solid #464646; padding: 5px 0 1.25rem 0; }
@@ -177,6 +178,11 @@ footer .footer-links { margin: 25px 0 5px 0; text-align: center; font-size: 0.9e
 footer .copyright { font-size: 0.8em; color: #999; text-align: center; }
 body.home .copyright { color: #f3f3f4; }
 .sr-only { display: none; }
+
+.video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; margin-bottom: 2rem; }
+.video-container iframe,
+.video-container object,
+.video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
 @media only screen and (max-width: 40em) {
 	.hide-small { display: none !important; }
